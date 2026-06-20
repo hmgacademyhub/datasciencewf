@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /_stcore/
+
+Sitemap: https://datascienceflow-hmgacademy.streamlit.app/sitemap.xml
+
+# DataScience Flow v9.5 — HMG Academy — HMG Concepts
+# Built by Adewale Samson Adeagbo
